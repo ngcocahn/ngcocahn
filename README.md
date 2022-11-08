@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ngcocahn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ngcocahn/ngcocahn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#include <iostream> //import thu vien 
+using namespace std;//khai bao su dung khong gian ten
+int main()//ham main:
+{
+	cout<<"Pham Ngoc Canh";//in ra man hình
+	return 0;//tra ve ket qua
+}
